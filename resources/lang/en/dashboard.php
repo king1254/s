@@ -1,0 +1,30 @@
+<?php
+
+return [
+    "title" => "لوحة التحكم",
+    "user-dashboard" => " لوحة تحكم المسؤول",
+    "total-staff" => " مجموع الموظفين",
+    "total-cow" => " مجموع بقرة",
+    "total-calf" => " مجموع العجل",
+    "total-supplier" => " إجمالي المورد",
+    "total-cow-stall" => " مجموع حظائر البقر",
+    "total-expense" => " المصاريف الكلية",
+    "total-collected-milk" => " إجمالي الحليب المجمّع",
+    "total-sold-milk" => " إجمالي الحليب المباع",
+    "today-collected-milk" => " الحليب المجمع اليوم",
+"today-sold-milk" => "مبيعات الحليب اليوم",
+    "today-collected-milk-amount" => " كمية الحليب المجمعة اليوم",
+    "today-sold-milk-amount" => " كمية الحليب المباعة اليوم",
+    "milk_sell_chart" => " الرسم البياني لمبلغ بيع الحليب الشهري",
+    "sale_chart_jan_dec" => " مخطط مبلغ بيع الحليب من يناير إلى ديسمبر",
+    "monthly_sale_expense_chart" => " مخطط المصاريف الشهرية",
+    "expense_chart_from_jan_dec" => " مخطط المصروفات من يناير إلى ديسمبر",
+    "last_fve_enpense_history" => " تاريخ المصاريف الخمس الأخيرة",
+    "last_fve_milk_sale_history" => " تاريخ بيع الحليب الخمسة الأخير",
+    "cow_feed_chart" => " مخطط علف البقر",
+    "set_feed_chart" => " تعيين مخطط التغذية",
+    "stall_number" => " رقم الحظيرة",
+    "expense_purpose" => " الغرض من المصاريف",
+    "quantity" => " كمية",
+    "time" => " زمن"
+];
